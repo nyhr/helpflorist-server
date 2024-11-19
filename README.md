@@ -671,4 +671,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-**Note:** Replace placeholder URLs, repository information, and `<your_secret_key>` with actual data relevant to your project. Ensure that the secret key remains confidential and is not shared publicly.
+**Note:** Replace placeholder URLs, repository information, and `<your_secret_key>` with actual data relevant to your project.
