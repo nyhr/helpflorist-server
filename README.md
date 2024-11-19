@@ -34,7 +34,13 @@ Welcome to the **helpflorist-server** API documentation. This API is built using
    cd helpflorist-server
    ```
 
-3. **Set up your web server:**
+3. **Run Settings.php**
+
+  ```bash
+  php settings.php
+  ```
+
+4. **Set up your web server:**
 
    - Ensure that your server is running PHP 8.
    - Configure your web server's document root to point to the `public` directory (if using a `public` directory for public files).
