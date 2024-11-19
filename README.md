@@ -25,7 +25,7 @@ Welcome to the **helpflorist-server** API documentation. This API is built using
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/helpflorist-server.git
+   git clone https://github.com/nyhr/helpflorist-server.git
    ```
 
 2. **Navigate to the project directory:**
@@ -671,4 +671,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-**Note:** Replace placeholder URLs, repository information, and `<your_secret_key>` with actual data relevant to your project.
+**Note:** Replace placeholder URLs and `<your_secret_key>` with actual data relevant to your project.
