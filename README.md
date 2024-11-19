@@ -36,10 +36,10 @@ Welcome to the **helpflorist-server** API documentation. This API is built using
 
 3. **Run Settings.php**
 
-  ```bash
-  php settings.php
-  ```
-
+    ```bash
+    php settings.php
+    ```
+    
 4. **Set up your web server:**
 
    - Ensure that your server is running PHP 8.
