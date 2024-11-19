@@ -55,12 +55,5 @@ $roleTable->create("roles")
 
 echo nl2br("Roles table created successfully \n");
 
-$userController = new UserController($db);
-if($userController->getByUsername("admin") === null) {
-    $userController->create(new UserModel(0,"admin", "admin@admin.com", "administrator", 3));
-
-    echo nl2br("Admin user created successfully \n");
-}
-
 echo nl2br("Database created successfully \n");
 ?>
